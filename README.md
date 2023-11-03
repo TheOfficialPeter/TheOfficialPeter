@@ -1,13 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello there 👋</h1>
 
-My name is Peter. Thanks for visiting my profile. Here are a few projects I am proud of:
+<h3>Who am I 🤔</h3>
 
-[📝BlogPHP](https://github.com/TheOfficialPeter/BlogPHP) <br/>
-[💬GroupChat](https://github.com/TheOfficialPeter/GroupChat) <br/>
-[📝A Dive into Web Scraping](https://github.com/TheOfficialPeter/webscraping.github.io) <br/>
-[🎶Random Music Player](https://github.com/TheOfficialPeter/randomGenreYoutubeMusicPlayer)
+- 👨‍🎓 University Student
+- 🌐 Web geek
+- 🤝 Helping others solve problems
+- 🌲 Huge nature fan
 
-Below is my weekly coding stats ( powered by Wakatime )
+<h3>📊 Weekly development breakdown ( powered by Wakatime )</h3>
 
 <!--START_SECTION:waka-->
 
