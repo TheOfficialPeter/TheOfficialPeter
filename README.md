@@ -7,7 +7,7 @@
 - 🤝 Helping others solve problems
 - 🌲 Huge nature fan
 
-<h3>📊 Weekly development breakdown ( powered by Wakatime )</h3>
+<h3>📊 Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
 
