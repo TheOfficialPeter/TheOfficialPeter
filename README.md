@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Syntex**
 
-- 📝 I regularly write articles on [https://theofficialpeter.github.io/ADiveIntoWebScraping/](https://theofficialpeter.github.io/ADiveIntoWebScraping/)
+- 📝 I regularly write articles on [https://theofficialpeter.github.io/blog](https://theofficialpeter.github.io/blog)
 
 - 💬 Ask me about **SQL, Web Scraping**
 
