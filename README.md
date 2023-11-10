@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Syntex**
 
-- 🌱 I’m currently learning **VueJS, MongoDB**
+- 🌱 I’m currently learning **Rust**
 
 - 🤝 I’m looking for help with **Syntex**
 
