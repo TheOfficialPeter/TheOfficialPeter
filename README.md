@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Syntex**
 
-- 🌱 I’m currently learning **ElectronJS**
+- 🌱 I’m currently learning **Desktop Application Development**
 
 - 🤝 I’m looking for help with **Syntex**
 
