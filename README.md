@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A Web Developer from South Africa</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="150" height="150" />
+</div>
 
 - 🔭 I’m currently working on **Syntex**
 
