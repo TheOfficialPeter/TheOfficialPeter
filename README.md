@@ -1,22 +1,15 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A Web Developer from South Africa</h3>
-<div align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="150" height="150" />
-</div>
+<h3 align="center">Your average problem solver</h3>
 
-- 🔭 I’m currently working on **Syntex**
+- Currently developing Mobile Applications
 
-- 🌱 I’m currently learning **Desktop Application Development**
+- Writing articles on [https://theofficialpeter.github.io/blog](https://theofficialpeter.github.io/blog)
 
-- 🤝 I’m looking for help with **Syntex**
+- High Interest in Web Scraping and Automation
 
-- 📝 I regularly write articles on [https://theofficialpeter.github.io/blog](https://theofficialpeter.github.io/blog)
+- contact me at **theofficialpeter@proton.me**
 
-- 💬 Ask me about **SQL, Web Scraping**
-
-- 📫 How to reach me **theofficialpeter@proton.me**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">dev profile:</h3>
 <p align="left">
 <a href="https://dev.to/theofficialpeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/theofficialpeter" height="30" width="40" /></a>
 </p>
