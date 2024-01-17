@@ -1,9 +1,6 @@
 
 ### <div align="center">I'm Peter, a full-time full-stack developer 👨‍💻</div>  
 <div align="center">
-<a href="https://github.com/theofficialpeter" target="_blank">
-<img src="https://komarev.com/ghpvc/?username=TheOfficialPeter&&style=flat-square" align="center" />
-</a>
 <a href="https://ko-fi.com/theofficialpeter" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
