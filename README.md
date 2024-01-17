@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">Your average problem solver</h3>
+<h1 align="left">Hi 👋, I'm Peter</h1>
+<h3 align="left">Full-Stack Developer from South Africa</h3>
+<br/>
+- 🔭 I’m currently working on **Comissions**
 
-- Currently developing Mobile Applications
+- 🌱 I’m currently learning **OpenCV Object Recognition**
 
-- Writing articles on [https://theofficialpeter.github.io/blog](https://theofficialpeter.github.io/blog)
+- 👯 I’m looking to collaborate on **Future Projects**
 
-- High Interest in Web Scraping and Automation
+- 📝 I regularly write articles on [theofficialpeter.github.io/blog](theofficialpeter.github.io/blog)
 
-- contact me at **theofficialpeter@proton.me**
+- 💬 Ask me about **Web Scraping, SQL**
+
+- 📫 How to reach me **theofficialpeter@proton.me**
+
 
 <h3 align="left">dev profile:</h3>
 <p align="left">
