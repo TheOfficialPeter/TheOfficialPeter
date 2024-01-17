@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on commissions  
   
 
-- 🌱 I’m currently learning OpenCV Image Segmentation  
+- 🌱 I’m currently learning SLAM  
   
 
 - ❓ Ask me about anything related to SQL or Web Scraping  
