@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Peter, a full-time full-stack freelance developer 👨‍💻</div>  
+### <div align="center">I'm Peter, a full-time full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on commissions  
