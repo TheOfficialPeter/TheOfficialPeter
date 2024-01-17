@@ -1,6 +1,16 @@
 
 ### <div align="center">I'm Peter, a full-time full-stack developer 👨‍💻</div>  
-  
+<div align="center">
+<a href="https://github.com/theofficialpeter" target="_blank">
+<img src="https://komarev.com/ghpvc/?username=TheOfficialPeter&&style=flat-square" align="center" />
+</a>
+<a href="https://ko-fi.com/theofficialpeter" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a> 
+</div>  
 
 - 🔭 I’m currently working on commissions  
   
@@ -91,24 +101,6 @@
 
 ## What I listen to
 <div><img src="https://spotify-github-profile.vercel.app/api/view?uid=klamrdqpmfssbz7oxdevfyabk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
-<div>
-<img src="https://komarev.com/ghpvc/?username=TheOfficialPeter&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div>
-            <a href="https://ko-fi.com/theofficialpeter" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 <h3>Weekly development breakdown</h3>
 
