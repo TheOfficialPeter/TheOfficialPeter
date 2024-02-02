@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on my resume  
   
 
-- 🌱 I’m currently learning C# WPF Desktop Application Development using Avalonia UI.  
+- 🌱 I’m currently learning C# WPF Desktop Application Authenticiation.  
   
 
 - ❓ Ask me about anything related to SQL, Web Automation/Scraping or Data Analytics  
