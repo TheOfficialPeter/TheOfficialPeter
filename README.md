@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Peter, a full-time full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Peter, a full-time full-stack software developer 👨‍💻</div>  
 <div align="center">
 <a href="https://ko-fi.com/theofficialpeter" target="_blank" style="display: inline-block;">
                 <img
@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on my resume  
   
 
-- 🌱 I’m currently learning C# WPF Desktop Application Authenticiation.  
+- 🌱 I’m currently learning deta space.  
   
 
 - ❓ Ask me about anything related to SQL, Web Automation/Scraping or Data Analytics  
