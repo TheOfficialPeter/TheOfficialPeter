@@ -9,7 +9,7 @@
             </a> 
 </div>  
 
-- 🔭 I’m currently working on my resume  
+- 🔭 I’m currently working on a few apps  
   
 
 - 🌱 I’m currently learning deta space.  
