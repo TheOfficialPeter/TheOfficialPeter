@@ -32,10 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 min           ███████████████░░░░░░░░░░   60.65 %
-Python       0 secs          █████████▒░░░░░░░░░░░░░░░   37.31 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Pug          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
