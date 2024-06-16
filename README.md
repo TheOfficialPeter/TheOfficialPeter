@@ -9,10 +9,10 @@
             </a> 
 </div>  
 
-- 🔭 I’m currently working on a few apps  
+- 🔭 I’m currently working on **Fruno**  
   
 
-- 🌱 I’m currently learning deta space.  
+- 🌱 I’m currently learning serverless functions & pycord.  
   
 
 - ❓ Ask me about anything related to SQL, Web Automation/Scraping or Data Analytics  
