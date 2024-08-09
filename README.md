@@ -26,17 +26,3 @@
 ## Github Stats  
 ![](https://github-readme-stats.vercel.app/api?username=TheOfficialPeter&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOfficialPeter&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<h3>Weekly development breakdown</h3>
-
-<!--START_SECTION:waka-->
-
-```txt
-HTML         7 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.61 %
-SCSS         7 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-JavaScript   4 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-Python       3 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-TypeScript   2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-```
-
-<!--END_SECTION:waka-->
