@@ -9,10 +9,10 @@
             </a> 
 </div>  
 
-- 🔭 I’m currently working on **Fruno**  
+- 🔭 I’m currently working on **My Personal Site**  
   
 
-- 🌱 I’m currently learning serverless functions & pycord.  
+- 🌱 I’m currently learning [Waku Framework](https://waku.gg)  
   
 
 - ❓ Ask me about anything related to SQL, Web Automation/Scraping or Data Analytics  
