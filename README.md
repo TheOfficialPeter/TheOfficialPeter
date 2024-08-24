@@ -9,10 +9,10 @@
             </a> 
 </div>  
 
-- 🔭 I’m currently working on **My Personal Site**  
+- 🔭 I’m currently working on **A Cross-Platform Application**  
   
 
-- 🌱 I’m currently learning [Waku Framework](https://waku.gg)  
+- 🌱 I’m currently learning [Framework7](https://framework7.io)  
   
 
 - ❓ Ask me about anything related to SQL, Web Automation/Scraping or Data Analytics  
