@@ -9,7 +9,7 @@
             </a> 
 </div>  
 
-- 🔭 I’m currently working on **A Cross-Platform Application**  
+- 🔭 I’m currently working on **A Mobile Application**  
   
 
 - 🌱 I’m currently learning [Framework7](https://framework7.io)  
